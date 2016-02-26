@@ -4,3 +4,5 @@ Revision history for Perl extension Games::Literati.
 	- original version; created by h2xs 1.21 with options
 		-AXcfn Games::Literati
 
+0.03  Fri Feb 26 14:25:00 2016
+	- peter's updates (manual)
